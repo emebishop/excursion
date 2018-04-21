@@ -1,18 +1,32 @@
 html{
   background-color: black;
   font-family: Verdana;
-  font-weight: normal;
   color: White;
   text-align: center;
 }
-
-.discover{
-  font-size: 50px;
+h2{
+  font-weight: 300;
+  font-size: 42px;
 }
-.link{
+h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+
+.desc{
+  font-size: 21px;
+  color: gray;
+}
+
+a:link{
   color: Aquamarine;
   font-size: 16px;
 }
-.copyright{
-  text-align: right;
+a:visited{
+  color:Aquamarine;
 }
+
+#copyright{
+    text-align: right;
+  }
