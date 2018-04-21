@@ -2,5 +2,9 @@ html{
   background-color: black;
   font-family: Verdana;
   font-weight: normal;
-  font-color: white;
+  color: white;
+}
+h4{
+  color: aquamarine;
+  font-size: 16px;
 }
