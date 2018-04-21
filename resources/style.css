@@ -2,10 +2,17 @@ html{
   background-color: black;
   font-family: Verdana;
   font-weight: normal;
-  color: white;
+  color: White;
   text-align: center;
 }
-h4{
-  color: aquamarine;
+
+.discover{
+  font-size: 50px;
+}
+.link{
+  color: Aquamarine;
   font-size: 16px;
+}
+.copyright{
+  text-align: right;
 }
